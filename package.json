@@ -1,0 +1,15 @@
+{
+  "name": "Jumping-Shell",
+  "uuid": "96962207-b36c-4511-a120-7ddd8a2d97b3",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "contributions": {
+    "scene": {
+      "script": "./dist/scene.js"
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
